@@ -2,6 +2,8 @@
 
 A Max/MSP external that applies authentic LAME MP3 compression artifacts to incoming audio streams in real-time. Perfect for creative sound design, lo-fi effects, and understanding MP3 compression characteristics.
 
+Note - this is still a work in progress! Unstable for lots of real time parameter changes for now but works well once it has been set up. 
+
 ## Features
 
 - **Real-time MP3 encoding/decoding** using LAME library
